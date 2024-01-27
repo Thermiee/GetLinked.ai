@@ -7959,6 +7959,7 @@ figure {
   z-index: 999;
   min-height: 700px;
   width: 100%;
+  margin-top: 8%;
 }
 .slider-text > .slider-text-inner {
   display: table-cell;
@@ -8873,6 +8874,7 @@ input[type="text"] {
 }
 
 .section-title {
+  margin-top: 7em;
   margin-bottom: 5em;
   float: left;
   width: 100%;
